@@ -1,0 +1,938 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.430
+Tu cliente ya tiene el mismo agente que tú.
+
+2
+00:00:02.480 --> 00:00:04.110
+Construir se volvió una subasta.
+
+3
+00:00:04.160 --> 00:00:07.030
+En 2027 cobra quien sabe qué hacer con él.
+
+4
+00:00:07.080 --> 00:00:09.800
+24 cursos y 10 kits, abiertos y gratuitos.
+
+5
+00:00:10.119 --> 00:00:11.679
+En este video te muestro qué incluye
+
+6
+00:00:11.679 --> 00:00:12.659
+cada grupo de cursos,
+
+7
+00:00:12.659 --> 00:00:14.499
+dónde aplicarlos, qué son los kits y
+
+8
+00:00:14.499 --> 00:00:15.979
+cómo usarlos en tu trabajo,
+
+9
+00:00:15.979 --> 00:00:17.699
+en tus consultorías y al analizar a
+
+10
+00:00:17.699 --> 00:00:18.299
+un cliente.
+
+11
+00:00:18.299 --> 00:00:20.219
+Y al final tendrás listo el primer
+
+12
+00:00:20.219 --> 00:00:21.839
+entregable para hacer esta semana.
+
+13
+00:00:21.839 --> 00:00:24.219
+Si tu propuesta es «yo construyo tu
+
+14
+00:00:24.219 --> 00:00:26.299
+agente», entraste en una subasta contra el
+
+15
+00:00:26.299 --> 00:00:27.599
+precio de una suscripción.
+
+16
+00:00:27.599 --> 00:00:29.639
+El briefing, conectar la API,
+
+17
+00:00:29.639 --> 00:00:30.519
+armar el flujo,
+
+18
+00:00:30.519 --> 00:00:31.479
+ajustar el prompt:
+
+19
+00:00:31.479 --> 00:00:32.859
+buena parte de eso ya lo hace
+
+20
+00:00:32.859 --> 00:00:33.339
+el agente.
+
+21
+00:00:33.339 --> 00:00:34.699
+El trabajo no se acaba,
+
+22
+00:00:34.699 --> 00:00:35.519
+cambia de lugar.
+
+23
+00:00:35.519 --> 00:00:37.139
+Lo que el cliente no resuelve solo
+
+24
+00:00:37.139 --> 00:00:39.159
+es decidir: qué proceso atender primero,
+
+25
+00:00:39.159 --> 00:00:40.499
+qué vale la pena automatizar,
+
+26
+00:00:40.499 --> 00:00:41.819
+dónde está el riesgo y si el
+
+27
+00:00:41.819 --> 00:00:42.639
+resultado es real.
+
+28
+00:00:42.639 --> 00:00:44.319
+Tu experiencia técnica no pierde valor.
+
+29
+00:00:44.319 --> 00:00:45.519
+Antes era el producto.
+
+30
+00:00:45.519 --> 00:00:47.179
+Ahora es lo que te da credibilidad
+
+31
+00:00:47.179 --> 00:00:49.599
+para diagnosticar, orientar y auditar.
+
+32
+00:00:49.599 --> 00:00:51.399
+El área parte de cuatro roles,
+
+33
+00:00:51.399 --> 00:00:53.379
+y ninguno depende de construir más rápido
+
+34
+00:00:53.379 --> 00:00:54.659
+que el agente del cliente.
+
+35
+00:00:54.659 --> 00:00:56.619
+El consultor empieza por el proceso,
+
+36
+00:00:56.619 --> 00:00:57.839
+no por la herramienta:
+
+37
+00:00:57.839 --> 00:00:59.839
+lo mapea y entrega un diagnóstico y
+
+38
+00:00:59.839 --> 00:01:00.239
+un plan.
+
+39
+00:01:00.239 --> 00:01:02.359
+Quien da seguimiento ajusta el agente mes
+
+40
+00:01:02.359 --> 00:01:04.019
+a mes y mide el resultado,
+
+41
+00:01:04.019 --> 00:01:05.759
+y eso se convierte en un contrato
+
+42
+00:01:05.759 --> 00:01:06.399
+recurrente.
+
+43
+00:01:06.399 --> 00:01:08.819
+El mentor enseña al equipo del cliente
+
+44
+00:01:08.819 --> 00:01:09.859
+a dar contexto,
+
+45
+00:01:09.859 --> 00:01:11.079
+delegar y evaluar.
+
+46
+00:01:11.079 --> 00:01:13.159
+Y el auditor revisa qué puede hacer
+
+47
+00:01:13.159 --> 00:01:15.059
+el agente, qué datos usa y quién
+
+48
+00:01:15.059 --> 00:01:16.119
+aprobó cada decisión.
+
+49
+00:01:16.119 --> 00:01:17.659
+En cualquier rol,
+
+50
+00:01:17.659 --> 00:01:19.059
+el método es el mismo:
+
+51
+00:01:19.059 --> 00:01:21.179
+encuentra la restricción real y prescribe la
+
+52
+00:01:21.179 --> 00:01:22.879
+solución más simple que funciona.
+
+53
+00:01:22.879 --> 00:01:24.799
+La pirámide de soluciones ayuda.
+
+54
+00:01:24.799 --> 00:01:25.599
+En la base,
+
+55
+00:01:25.599 --> 00:01:27.319
+un flujo de trabajo determinista,
+
+56
+00:01:27.319 --> 00:01:28.879
+sin IA:
+
+57
+00:01:29.159 --> 00:01:31.279
+barato, rápido y confiable.
+
+58
+00:01:31.279 --> 00:01:32.279
+En el medio,
+
+59
+00:01:32.279 --> 00:01:34.499
+un flujo de trabajo con IA:
+
+60
+00:01:34.499 --> 00:01:36.919
+más capacidad y más puntos de falla.
+
+61
+00:01:36.919 --> 00:01:37.739
+En la cima,
+
+62
+00:01:37.739 --> 00:01:40.579
+el agente: máxima capacidad y máximo riesgo.
+
+63
+00:01:40.579 --> 00:01:43.239
+Por ejemplo: una clínica pierde consultas porque
+
+64
+00:01:43.239 --> 00:01:44.719
+los pacientes se olvidan.
+
+65
+00:01:44.719 --> 00:01:47.059
+Eso requiere un recordatorio automático en la
+
+66
+00:01:47.059 --> 00:01:48.259
+base, no un agente.
+
+67
+00:01:48.259 --> 00:01:49.919
+Y la guía de consultoría tiene cinco
+
+68
+00:01:49.919 --> 00:01:51.619
+pasos: mapear la restricción,
+
+69
+00:01:51.619 --> 00:01:52.879
+auditar la preparación,
+
+70
+00:01:52.879 --> 00:01:53.999
+los datos y el riesgo,
+
+71
+00:01:53.999 --> 00:01:55.239
+planear la ejecución,
+
+72
+00:01:55.239 --> 00:01:57.319
+entregar, y dar seguimiento y medir.
+
+73
+00:01:57.319 --> 00:01:58.239
+En la página,
+
+74
+00:01:58.239 --> 00:01:59.459
+todo sigue un orden.
+
+75
+00:01:59.459 --> 00:02:00.979
+Primero, entiende el rol.
+
+76
+00:02:00.979 --> 00:02:03.339
+Después, aprende a vender sin prometer lo
+
+77
+00:02:03.339 --> 00:02:04.299
+que no vas a entregar.
+
+78
+00:02:04.299 --> 00:02:06.559
+Luego, profundiza en la entrega y la
+
+79
+00:02:06.559 --> 00:02:07.099
+gobernanza.
+
+80
+00:02:07.099 --> 00:02:09.359
+Son veinticuatro cursos en estos tres grupos,
+
+81
+00:02:09.359 --> 00:02:10.899
+diez kits para usar con el cliente
+
+82
+00:02:10.899 --> 00:02:11.819
+y los videos.
+
+83
+00:02:11.819 --> 00:02:13.522
+Los cursos marcados P T,
+
+84
+00:02:13.522 --> 00:02:15.419
+E N, E S tienen las tres
+
+85
+00:02:15.419 --> 00:02:18.239
+versiones: portugués, inglés y español.
+
+86
+00:02:18.239 --> 00:02:20.379
+El primer grupo forma al consultor.
+
+87
+00:02:20.379 --> 00:02:21.959
+Consultor de IA,
+
+88
+00:02:21.959 --> 00:02:23.339
+del rótulo al resultado,
+
+89
+00:02:23.339 --> 00:02:25.499
+tiene cinco rutas y veinte módulos:
+
+90
+00:02:25.499 --> 00:02:26.959
+mapear la restricción real,
+
+91
+00:02:26.959 --> 00:02:28.119
+auditar la preparación,
+
+92
+00:02:28.119 --> 00:02:29.459
+los datos y el riesgo,
+
+93
+00:02:29.459 --> 00:02:31.139
+y armar planes de ejecución.
+
+94
+00:02:31.139 --> 00:02:34.139
+La Fábrica de Estrategia de IA enseña
+
+95
+00:02:34.139 --> 00:02:35.199
+a crear, con Claude Code,
+
+96
+00:02:35.199 --> 00:02:37.499
+una máquina que investiga una empresa y
+
+97
+00:02:37.499 --> 00:02:39.439
+genera un paquete de consultoría con diecinueve
+
+98
+00:02:39.439 --> 00:02:40.619
+entregables.
+
+99
+00:02:40.619 --> 00:02:43.079
+Mapa del Cliente y Profesional
+
+100
+00:02:43.079 --> 00:02:45.659
+2027 se enfocan en pequeños negocios y
+
+101
+00:02:45.659 --> 00:02:46.079
+pymes.
+
+102
+00:02:46.079 --> 00:02:47.399
+Y Productos en la era de la
+
+103
+00:02:47.399 --> 00:02:49.839
+IA enseña a saber qué vale la
+
+104
+00:02:49.839 --> 00:02:50.539
+pena construir.
+
+105
+00:02:50.539 --> 00:02:52.259
+Dónde aplicarlo: en tu empleo,
+
+106
+00:02:52.259 --> 00:02:53.899
+para proponer mejoras con método,
+
+107
+00:02:53.899 --> 00:02:56.019
+o como consultor desde tu primer cliente.
+
+108
+00:02:56.019 --> 00:02:57.679
+El segundo grupo es para vender sin
+
+109
+00:02:57.679 --> 00:02:58.179
+rodeos.
+
+110
+00:02:58.179 --> 00:03:00.679
+La serie Ventas con IA tiene cinco
+
+111
+00:03:00.679 --> 00:03:02.699
+cursos: cuarenta y tres oportunidades
+
+112
+00:03:02.699 --> 00:03:04.079
+con precio y primer paso;
+
+113
+00:03:04.079 --> 00:03:05.699
+el playbook de consultoría,
+
+114
+00:03:05.699 --> 00:03:07.619
+con diagnóstico, solución y precio;
+
+115
+00:03:07.619 --> 00:03:09.799
+los fundamentos, para superar el síndrome del
+
+116
+00:03:09.799 --> 00:03:12.039
+impostor; de cero al primer cliente,
+
+117
+00:03:12.039 --> 00:03:14.279
+con auditoría, precios y entrega del primer
+
+118
+00:03:14.279 --> 00:03:16.519
+contrato; y la masterclass de la venta
+
+119
+00:03:16.519 --> 00:03:17.019
+tranquila.
+
+120
+00:03:17.019 --> 00:03:19.779
+También incluye Negocio de Servicios de IA,
+
+121
+00:03:19.779 --> 00:03:21.579
+en ocho clases sin programar,
+
+122
+00:03:21.579 --> 00:03:23.599
+y Monetización, con portafolio,
+
+123
+00:03:23.599 --> 00:03:24.659
+paquetes y propuesta,
+
+124
+00:03:24.659 --> 00:03:25.979
+sin prometer ingresos.
+
+125
+00:03:26.259 --> 00:03:27.879
+El tercer grupo trata sobre la entrega.
+
+126
+00:03:27.879 --> 00:03:28.819
+Gestión de Agentes:
+
+127
+00:03:28.819 --> 00:03:29.939
+los siete principios.
+
+128
+00:03:29.939 --> 00:03:32.299
+Enseña intención, límites y supervisión,
+
+129
+00:03:32.299 --> 00:03:33.839
+del nivel cero al cuatro.
+
+130
+00:03:33.839 --> 00:03:35.439
+Es la base para quien da seguimiento
+
+131
+00:03:35.439 --> 00:03:36.699
+y para quien audita.
+
+132
+00:03:36.699 --> 00:03:38.979
+Agente bajo control permite elegir qué automatizar
+
+133
+00:03:38.979 --> 00:03:40.799
+según el costo del problema y darle
+
+134
+00:03:40.799 --> 00:03:42.199
+al agente solo el acceso que la
+
+135
+00:03:42.199 --> 00:03:43.399
+tarea requiere.
+
+136
+00:03:43.399 --> 00:03:45.439
+Arquitecto de Trabajo rediseña procesos para que
+
+137
+00:03:45.439 --> 00:03:48.259
+las personas dirijan y los agentes ejecuten.
+
+138
+00:03:48.259 --> 00:03:50.119
+LOOP-R convierte un proceso en un ciclo
+
+139
+00:03:50.119 --> 00:03:50.559
+de mejora.
+
+140
+00:03:50.559 --> 00:03:51.639
+Y Segunda Opinión,
+
+141
+00:03:51.639 --> 00:03:54.459
+CAIO y Empresas de 2027 están dirigidos
+
+142
+00:03:54.459 --> 00:03:55.599
+a gerentes y líderes.
+
+143
+00:03:55.599 --> 00:03:57.039
+Ahora, los proyectos.
+
+144
+00:03:57.039 --> 00:03:58.599
+En el área se llaman kits:
+
+145
+00:03:58.599 --> 00:04:00.899
+proyectos abiertos que se vuelven entregables de
+
+146
+00:04:00.899 --> 00:04:01.499
+consultoría.
+
+147
+00:04:01.499 --> 00:04:03.619
+Cada uno resuelve una parte del trabajo.
+
+148
+00:04:03.619 --> 00:04:05.239
+Para encontrar clientes:
+
+149
+00:04:05.239 --> 00:04:08.019
+Prospector Agent descubre negocios con buenas reseñas
+
+150
+00:04:08.019 --> 00:04:09.759
+y sitios web deficientes,
+
+151
+00:04:09.759 --> 00:04:12.019
+rediseña la página y envía la propuesta.
+
+152
+00:04:12.019 --> 00:04:13.999
+Para diagnosticar y proponer:
+
+153
+00:04:13.999 --> 00:04:16.519
+Rayos X de Margen muestra dónde pierden
+
+154
+00:04:16.519 --> 00:04:17.619
+dinero los restaurantes,
+
+155
+00:04:17.619 --> 00:04:19.039
+hoteles, clínicas y salones,
+
+156
+00:04:19.039 --> 00:04:21.059
+en reales, y genera una propuesta,
+
+157
+00:04:21.059 --> 00:04:23.379
+un contrato y un acuerdo de LGPD.
+
+158
+00:04:23.379 --> 00:04:25.519
+Para ganar visibilidad:
+
+159
+00:04:25.519 --> 00:04:27.799
+AIV e inemaSEO hacen que la empresa
+
+160
+00:04:27.799 --> 00:04:29.519
+aparezca en Google y en las búsquedas
+
+161
+00:04:29.519 --> 00:04:30.759
+con IA.
+
+162
+00:04:30.759 --> 00:04:32.519
+Para entregar y dar seguimiento:
+
+163
+00:04:32.519 --> 00:04:34.299
+Gestoría es un laboratorio de gestión de
+
+164
+00:04:34.299 --> 00:04:35.219
+IA,
+
+165
+00:04:35.219 --> 00:04:37.299
+con procesos, cargos digitales,
+
+166
+00:04:37.299 --> 00:04:39.819
+autonomía y evaluación por versión.
+
+167
+00:04:39.819 --> 00:04:41.799
+LOOP-R ejecuta el ciclo de mejora con
+
+168
+00:04:41.799 --> 00:04:43.259
+evidencia, experimento
+
+169
+00:04:43.259 --> 00:04:45.279
+y botón para volver atrás.
+
+170
+00:04:45.299 --> 00:04:46.299
+Mentor-Especialista
+
+171
+00:04:46.299 --> 00:04:48.239
+transforma el método de un especialista en
+
+172
+00:04:48.239 --> 00:04:50.719
+un mentor dentro de Claude Code.
+
+173
+00:04:50.719 --> 00:04:51.919
+IA
+
+174
+00:04:52.479 --> 00:04:54.599
+Cultivada ofrece kits descargables y paquetes de
+
+175
+00:04:54.599 --> 00:04:55.759
+agentes por área.
+
+176
+00:04:55.759 --> 00:04:58.139
+Arquitecto de Ejecución decide entre secuencia y
+
+177
+00:04:58.139 --> 00:04:59.939
+paralelismo antes de crear agentes.
+
+178
+00:04:59.939 --> 00:05:02.859
+E Infinite Brain OS guarda el conocimiento
+
+179
+00:05:02.859 --> 00:05:04.299
+del negocio en texto plano,
+
+180
+00:05:04.299 --> 00:05:05.999
+sin depender de una herramienta.
+
+181
+00:05:05.999 --> 00:05:07.719
+La regla de la página es sencilla:
+
+182
+00:05:07.719 --> 00:05:09.459
+úsalo primero en tu propio negocio y
+
+183
+00:05:09.459 --> 00:05:10.959
+después llévalo al cliente.
+
+184
+00:05:10.959 --> 00:05:12.559
+Aprendes dónde falla el kit antes de
+
+185
+00:05:12.559 --> 00:05:13.199
+cobrar por él.
+
+186
+00:05:13.199 --> 00:05:14.459
+Un camino posible:
+
+187
+00:05:14.459 --> 00:05:16.599
+Prospector encuentra un restaurante con buenas reseñas
+
+188
+00:05:16.599 --> 00:05:18.059
+y un sitio web deficiente.
+
+189
+00:05:18.059 --> 00:05:19.979
+Rayos X muestra cuánto pierde al mes.
+
+190
+00:05:19.979 --> 00:05:21.699
+La propuesta y el contrato salen del
+
+191
+00:05:21.699 --> 00:05:22.319
+propio kit.
+
+192
+00:05:22.319 --> 00:05:25.119
+La implementación usa un paquete de IA
+
+193
+00:05:25.119 --> 00:05:25.879
+Cultivada.
+
+194
+00:05:25.879 --> 00:05:27.899
+Y LOOP-R mide mes a mes,
+
+195
+00:05:27.899 --> 00:05:29.579
+lo que se convierte en seguimiento y
+
+196
+00:05:29.579 --> 00:05:30.779
+en un contrato recurrente.
+
+197
+00:05:30.779 --> 00:05:31.919
+¿Y si no eres consultor?
+
+198
+00:05:31.919 --> 00:05:33.879
+Lo mismo aplica dentro de la empresa:
+
+199
+00:05:33.879 --> 00:05:35.659
+mapear los procesos de tu área y
+
+200
+00:05:35.659 --> 00:05:36.999
+decidir qué queda a cargo de una
+
+201
+00:05:36.999 --> 00:05:38.819
+persona, de un agente o de la
+
+202
+00:05:38.819 --> 00:05:39.819
+automatización.
+
+203
+00:05:39.819 --> 00:05:41.059
+Te lo prometí al principio.
+
+204
+00:05:41.059 --> 00:05:42.879
+Tu primer entregable es un diagnóstico de
+
+205
+00:05:42.879 --> 00:05:43.559
+una página.
+
+206
+00:05:43.559 --> 00:05:45.719
+Elige un cliente o tu propia empresa.
+
+207
+00:05:45.719 --> 00:05:46.859
+Escoge un proceso.
+
+208
+00:05:46.859 --> 00:05:47.939
+Escribe qué entra,
+
+209
+00:05:47.939 --> 00:05:49.839
+quién decide, dónde está el cuello de
+
+210
+00:05:49.839 --> 00:05:51.399
+botella y qué queda a cargo de
+
+211
+00:05:51.399 --> 00:05:53.339
+una persona, de un agente y de
+
+212
+00:05:53.339 --> 00:05:54.179
+la automatización.
+
+213
+00:05:54.179 --> 00:05:55.699
+Ese documento ya es un producto de
+
+214
+00:05:55.699 --> 00:05:56.499
+consultoría.
+
+215
+00:05:56.499 --> 00:05:58.279
+Después, elige el camino:
+
+216
+00:05:58.279 --> 00:06:01.019
+aprender el rol con Consultor de IA,
+
+217
+00:06:01.019 --> 00:06:02.999
+vender con De Cero al Primer Cliente
+
+218
+00:06:02.999 --> 00:06:04.759
+o entregar con el kit Rayos X
+
+219
+00:06:04.759 --> 00:06:05.359
+de Margen.
+
+220
+00:06:05.359 --> 00:06:08.519
+En resumen: construir se volvió un commodity;
+
+221
+00:06:08.519 --> 00:06:09.579
+decidir, no.
+
+222
+00:06:09.579 --> 00:06:11.369
+Cuatro roles, un método,
+
+223
+00:06:11.369 --> 00:06:13.219
+veinticuatro cursos en tres grupos y diez
+
+224
+00:06:13.219 --> 00:06:14.239
+kits para encontrar,
+
+225
+00:06:14.239 --> 00:06:15.179
+diagnosticar,
+
+226
+00:06:15.179 --> 00:06:16.879
+proponer, entregar y medir.
+
+227
+00:06:16.879 --> 00:06:19.399
+Todo abierto y gratuito en eventos punto
+
+228
+00:06:19.399 --> 00:06:20.319
+inema
+
+229
+00:06:20.319 --> 00:06:23.579
+punto pro, barra consultoria guion ia.
+
+230
+00:06:23.579 --> 00:06:24.859
+Y la lista completa,
+
+231
+00:06:24.859 --> 00:06:25.819
+con las novedades,
+
+232
+00:06:25.819 --> 00:06:27.619
+está en INEMA punto club.
+
+233
+00:06:27.619 --> 00:06:29.719
+Empieza esta semana con un diagnóstico de
+
+234
+00:06:29.719 --> 00:06:30.479
+una página.
+
